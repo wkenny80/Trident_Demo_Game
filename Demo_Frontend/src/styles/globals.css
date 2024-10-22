@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000;
+}
+
+@font-face {
+  font-family: "Redaction Regular";
+  src: url("../../public/fonts/Redaction_35-Regular.woff2");
+}
+
+@font-face {
+  font-family: "Timmy";
+  src: url("../../public/fonts/Timmy-Regular.woff2");
+}
+
+@font-face {
+  font-family: "Micro";
+  src: url("../../public/fonts/Micro.woff2");
+}
